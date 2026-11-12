@@ -2,6 +2,7 @@
 #include <stdio.h>
 #include "str_cpy.h"
 #include "print_tab.h"
+#include "str_len.h"
 
 int main()
 {

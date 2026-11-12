@@ -2,7 +2,8 @@ NAME = ex-2
 
 SRCS = main.c \
 	print_tab.c \
-	str_cpy.c
+	str_cpy.c\
+	str_len.c
 
 all: $(NAME)
 
